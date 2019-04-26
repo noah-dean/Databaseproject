@@ -1,0 +1,15 @@
+P:\Visual Studio\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+P:\Visual Studio\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.exe
+P:\Visual Studio\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.pdb
+P:\Visual Studio\DataBaseProject\DataBaseProject\bin\Debug\DataBaseProject.xml
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.vbprojAssemblyReference.cache
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Form1.resources
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Resources.resources
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.vbproj.GenerateResource.cache
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.vbproj.CoreCompileInputs.cache
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.exe
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.xml
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.pdb
+P:\Visual Studio\DataBaseProject\DataBaseProject\bin\Debug\Program database.accdb
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Form2.resources
+P:\Visual Studio\DataBaseProject\DataBaseProject\obj\Debug\DataBaseProject.Form3.resources
